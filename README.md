@@ -1,5 +1,5 @@
 # ✨🖍️Introduction-to-mixed-realities🪄🌿🖼️
-# Final Project - ARtist 
+# 🎀Final Project - ARtist🎈
 ***(Experiență Educațională în Artă prin Realitate Augmentată și Virtuală)***
 
 - this is a repository for a project made by Ciorâțanu Maria, year III, group A5, Faculty of Computer Science Iași.
