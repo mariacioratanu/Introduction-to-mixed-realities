@@ -1,11 +1,12 @@
 # ✨🖍️Introduction-to-mixed-realities🪄🌿🖼️
-# Final Project - ARtist (Experiență Educațională în Artă prin Realitate Augmentată și Virtuală)
+# Final Project - ARtist 
+***(Experiență Educațională în Artă prin Realitate Augmentată și Virtuală)***
 
 - this is a repository for a project made by Ciorâțanu Maria, year III, group A5, Faculty of Computer Science Iași.
 - the project presented is part of the evaluation in the ”Introduction to mixed realities” subject.
 
-## 📌 Tema 4/5: State of the art: 
-## 📌 Tema 4/5: Main components document:
+### 📌 Tema 4/5: State of the art: 
+### 📌 Tema 4/5: Main components document:
 
 ### 👤Author:
 - Ciorâțanu Maria (3A5)
