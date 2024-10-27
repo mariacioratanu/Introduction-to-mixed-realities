@@ -19,8 +19,12 @@ ARtist este o aplicație mobilă educațională care folosește realitatea augme
 - __Proiectarea operelor pe pereții reali (AR)__: Posibilitatea de a vizualiza desenele proprii sau picturi celebre pe pereții din spațiul real al utilizatorului.
 - Scopul aplicației este de a oferi o experiență educațională captivantă, combinând storytelling-ul și tehnologia AR/VR pentru cei pasionați de artă.
 
-### ⭐Project Theme
+### ⭐Project Theme (inspiration)
 Educational AR/VR experience.
 - Create an experience with the purpose of user's improving on a certain area (Learning how to cook, Building furniture, Plane Ride Simulator, Medieval Weapon handling, etc.). Try to pick a subject you are truly interested in as a team. The experience should guide the user through an educational experience based on simulations, storytelling, or by creating a close-to-perfect digital twin of the subject in discussion. The focus should be on the realism of the experience and interactions.
 
 ### 📋Week 4 (Lab 4/5)
+- am completat documentele __State of the art__ și __Main components document__
+- am stabilit exact ce urmează să implementez în săptămânile următoare
+- am stabilit componentele aplicației mele, funcționalitățile principale, interacțiunile utilizatorului cu meniul, use-case-urile, user journey
+- am realizat un moodboard și o listă cu tehnologiile, bibliotecile necesare și asset-urile pe care urmează să le folosesc și o listă cu similar products
