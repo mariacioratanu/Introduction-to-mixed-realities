@@ -5,7 +5,8 @@
 - this is a repository for a project made by Ciorâțanu Maria, year III, group A5, Faculty of Computer Science Iași.
 - the project presented is part of the evaluation in the ”Introduction to mixed realities” subject.
 
-### 📌 Tema 4/5: State of the art: <small>https://docs.google.com/document/d/1hw-o-dcC0A6dlvUzbj86O4C1_o1XA4vpHCTqqMf0_Tk/edit?usp=sharing</small>
+### 📌 Tema 4/5: State of the art: 
+https://docs.google.com/document/d/1hw-o-dcC0A6dlvUzbj86O4C1_o1XA4vpHCTqqMf0_Tk/edit?usp=sharing 
 ### 📌 Tema 4/5: Main components document:
 
 ### 👤Author:
