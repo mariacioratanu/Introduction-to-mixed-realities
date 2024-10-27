@@ -23,7 +23,7 @@ ARtist este o aplicație mobilă educațională care folosește realitatea augme
 Educational AR/VR experience.
 - Create an experience with the purpose of user's improving on a certain area (Learning how to cook, Building furniture, Plane Ride Simulator, Medieval Weapon handling, etc.). Try to pick a subject you are truly interested in as a team. The experience should guide the user through an educational experience based on simulations, storytelling, or by creating a close-to-perfect digital twin of the subject in discussion. The focus should be on the realism of the experience and interactions.
 
-### 📋Week 4 (Lab 4/5)
+### 🪩Week 4 (Lab 4/5)
 - am completat documentele __State of the art__ și __Main components document__
 - am stabilit exact ce urmează să implementez în săptămânile următoare
 - am stabilit componentele aplicației mele, funcționalitățile principale, interacțiunile utilizatorului cu meniul, use-case-urile, user journey
