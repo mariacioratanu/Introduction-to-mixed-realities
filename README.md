@@ -8,7 +8,7 @@
 ### 📌 Tema 4/5: State of the art: 
 https://docs.google.com/document/d/1hw-o-dcC0A6dlvUzbj86O4C1_o1XA4vpHCTqqMf0_Tk/edit?usp=sharing 
 ### 📌 Tema 4/5: Main components document:
-[https://docs.google.com/document/d/1hw-o-dcC0A6dlvUzbj86O4C1_o1XA4vpHCTqqMf0_Tk/edit?usp=sharing](https://docs.google.com/document/d/1nptF_YzjUThDAS_R8gySGY7hRexiaffI1lQo8deH6-U/edit?tab=t.0#heading=h.bcldxwdefncd)
+https://docs.google.com/document/d/1nptF_YzjUThDAS_R8gySGY7hRexiaffI1lQo8deH6-U/edit?usp=sharing 
 
 ### 👤Author:
 - Ciorâțanu Maria (3A5)
